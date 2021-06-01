@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HanhNguyen\\source\\repos\\TaxToolProject\\TaxTool\\TaxTool.csproj": {}
+    "C:\\Users\\HanhNguyen\\Desktop\\TaxTool\\TaxToolProject\\TaxTool\\TaxTool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HanhNguyen\\source\\repos\\TaxToolProject\\TaxTool\\TaxTool.csproj": {
+    "C:\\Users\\HanhNguyen\\Desktop\\TaxTool\\TaxToolProject\\TaxTool\\TaxTool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HanhNguyen\\source\\repos\\TaxToolProject\\TaxTool\\TaxTool.csproj",
+        "projectUniqueName": "C:\\Users\\HanhNguyen\\Desktop\\TaxTool\\TaxToolProject\\TaxTool\\TaxTool.csproj",
         "projectName": "TaxTool",
-        "projectPath": "C:\\Users\\HanhNguyen\\source\\repos\\TaxToolProject\\TaxTool\\TaxTool.csproj",
+        "projectPath": "C:\\Users\\HanhNguyen\\Desktop\\TaxTool\\TaxToolProject\\TaxTool\\TaxTool.csproj",
         "packagesPath": "C:\\Users\\HanhNguyen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HanhNguyen\\source\\repos\\TaxToolProject\\TaxTool\\obj\\",
+        "outputPath": "C:\\Users\\HanhNguyen\\Desktop\\TaxTool\\TaxToolProject\\TaxTool\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HanhNguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
